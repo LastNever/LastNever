@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.96m added, 1.51m removed
+                                    846k added, 426k removed
                                 </div>
                             </section>
                             <section>
@@ -2657,7 +2657,7 @@
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB5klEQVR4nO2U7U/aUBTG71/ol4ka35I5ExkKAi1qlaqs4gQBcRTaqdX4ijPqZjITBdp/7VkewBew2mrMPpmcNL03t797znOeHgHHfPcQH1D8b03rZfychzqO2CAj+QWGgpr+VqhtYEPCVB82ZfzJcWkbuCpAn0FkAPkol6+D1nRIw4S6fmkbREcHcVPyDbUNEveWPJQ51sh1u1W4nC4lsD7tqyc/ZORjPqCNCkIBPv1AbQOR/qfJiu5zlopsxBexYaCahqlQqL/FF6Hfgjza5SpToSC7iw9JWSpCvVj5isocCnH24NFXohsqj+B682F5uY7JAF11qGEtjOAnskIBKJ95mV9LyZ3Qq3zH8nSVyTaann1eGdG9pQVx0ll+Ky6yVMY1jjQv6O4iMneNuilRstZ7rYzzjEtoQWwt+LFUb9tSZ2soxLCfwo6KXJS9slRsJ/HrO37n2pYK9z8VV7hUWp5FJtzOuprGWA93DlJIh1hEfIhdat1alBjemjrN+xOjzM5SOaIMBTtJarcwBnOeO0WJL/spSEO+f1On6c3ECLLTbLRjorrK2u8bwgEWZ8q3+utHX2mGJs1FKW5NR71CD2zEOQ+Lzwww52Xofd8slbXLw/xtlifYqLrHZBAe0DeF+IDivTX9B1xK85PmaY+mAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAACNUlEQVR4nO2U3U/aUBjG+69ayHaxOR1ktIUKRAbUQqZW+RgoNEL5MDkF6wyozSgtKVoqH3GBLdsSSuJwF/sfliEjZPJRjNmVyXPRnra/vu95nvNCwLL06IKeoOA/7ymLwpXw2ucPuz2R7kn0l5OAHLGzqOHh0NqBu3/J1Bmi6F1hERggcMG9rCY8N9XkVdK7MDSHGbpCrJHemPaZeuDuiXTealwA2i3tSwHb7B5LW5aeROuFXsZdrUOfHkPUhLueInRAEbivpAAC6zT6ppqcD5WCtmZWV5nAssT7THLUUd7BOPvzWdA2R/E+0/gKi8JyxNHIkOVdbLQoBqy3tXSHoxTa1ciQPZHm/eap0K4QO8KfjW4L7uW+wlwxXoFCr8G7n2rmtpbuK6nvfCSHTU0rNBt6sv5ivLVhOcicbYEmtD/WyEhFz6sOR01Uacsy36jW3zzlrcbqnvPuOocZz4jV+2ofbcsRu45I1YaROiVW6wwhUKgUwhsZspklpRBeCa+dka8Lb1+OInV/FEBTwu8fWGzj/eZf1+Aiti5sI5/YzdahXyvHvp2/v/urmvBMHALQ1GMaxKUQLkcc1T1nJYS3OeprMSxHHXLUoSY91ahToFBNjOsyCgyzaeiW9v+cgoHRvN/czJIfN9+MXqgzhCbGcwsNFDCQQrv6SqqZIc9JU95qzGGGU2KlniJ+XDBqwrNApMA/JSOwFLS1OUoTYlo53jneqYRwFp0zGaDZjx8m6AkKHntPfwMWi+fCKY2xoAAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgQFBwj/xAAlEAACAQMEAgIDAQAAAAAAAAABAgMABBEFBhIhE1EisQcxYXH/xAAZAQACAwEAAAAAAAAAAAAAAAABBQADBAb/xAAeEQACAgIDAQEAAAAAAAAAAAABAgARAwQSIVEFcf/aAAwDAQACEQMRAD8A5ohhkkbCLSTbFkGvAt4/gQd+TOONQdPdYir4yaU6bp8munxLiJ2BC9dEgZxVzjqI93YpSD0PYZ3pJaT6q5sVIhB+LkY5f0D1R7jSXeGmyabPZ28uQ6w5YessT9YqiRMrnFQCbNZlGFeJsRbtexS4dBL8nY4A9Vo7WK6XaJc2AV3gfLEH9nHY+6A7XPhguZ4+pI1JU+q0vb4Ef4+efAaRpjkt3RyGhOT+w7h+V9WBX7Mm3TEbnUTJGH4nv5nJql4ceiKS63O8jPnAz6FHpXKOVUDH+US0fajk4wvk/9k=" width="28" height="28" alt="" />
                     </section>
                 </div>
@@ -3624,7 +3624,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jan 2025, 14:43:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jan 2025, 15:35:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
