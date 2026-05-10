@@ -223,7 +223,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    13 views in last two weeks
+                                    18 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -2688,7 +2688,7 @@
                 <div class="row">
                     <section class="people">
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAACNUlEQVR4nO2SWW/aQBSF+dVtHwPGhr61FMJux3YwWwpNSKBl84JNsA02m40EFZBQhYAB+ydUKSqRAglOGvUp0nm4M3fm050zx2Lo2qvL8gY1/r+ng756cX6KYwiGwpmzdE/t/BNUlkSnAwz4vRWGVJVWT2lXOQaBgxAI8DX2JVAigvu8ntvpZLulzW8QOBQOBfTV/BnQKIGnviaffmMhnwsFfWahsiT6vG4zH4KhCMfSpqBOB7jz1dtaaFMIBPZDB3014PeaIRq61lPbbIXqduTVcvYU9OL8lK2QDzalBp/LZlrNxmZH4KuA7SAY8H5Ln+AYAoHAaDh4FIqhiKq0N8vrqyFot0UJnKHLR0jYAdkhELAD1i+uT9r8xmyk0CO4p95Dx6PBeHQ/giwJ+mq+XNw+FiZjJzRzlq5yzPa50bB/jKM7pSqtPdCe2oHDwXWtr+bFwvd1rc2nnba8rUOPqy7W9kcKAoG1X1fjnyfJGF/j2AqVTiXTqSTH0gxVUrrNtSer5QywWU3llK9xCHw3rCwJonD54f07slwQeO4YP0omoh+d0CZziThRLuVNQQ1dC4cC+R/ZRr1GkUWKLLIVCscQv++QIosMXc5lMzRVqjCkx/3Z1EcZf90MBX0YCi+0qaFrSreVTMSacn3dXS1n8VjE43Y9yPweqPFHHEvbASsRwWVJnFyPfk1GrWYjHiMA2wFZLjwjUsaWZEmIRe/m8rhdUQKvi5d7r1j2nniBLG9Q47U9/Q3OjyOap8rovAAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgQFBwj/xAAlEAACAQMEAgIDAQAAAAAAAAABAgMABBEFBhIhE1EisQcxYXH/xAAZAQACAwEAAAAAAAAAAAAAAAABBQADBAb/xAAeEQACAgIDAQEAAAAAAAAAAAABAgARAwQSIVEFcf/aAAwDAQACEQMRAD8A5ohhkkbCLSTbFkGvAt4/gQd+TOONQdPdYir4yaU6bp8munwpiJ2BC9dEgZxVzjqI93YpSD0PYZ3pJaT6q5sVIhB+LkY5f0D1R7jSXeGmyabPZ28uQ6w5YessT9YqiRMrnFQCbNZlGFeJsRbtexS4dBL8nY4A9VpDWC6XaJc2AV3gfLEH9kDsfdANrnwwXM8fUkakqfVaXt8CP8fPPgNI0xyW7o5DQnJ/Ydg/K+rAr9mTbpiNzqJkjD8T38zk1S8OPRFJdbneRnzgZ9Cj0rlHKqBj/KJaPtRycYXyf//Z" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgQFBwj/xAAlEAACAQMEAgIDAQAAAAAAAAABAgMABBEFBhIhE1EisQcxYXH/xAAZAQACAwEAAAAAAAAAAAAAAAABBQADBAb/xAAeEQACAgIDAQEAAAAAAAAAAAABAgARAwQSIVEFcf/aAAwDAQACEQMRAD8A5ohhkkbCLSTbFkGvAt4/gQd+TOONQdPdYir4yaU6bp8munxLiJ2BC9dEgZxVzjqI93YpSD0PYZ3pJaT6q5sVIhB+LkY5f0D1R7jSXeGmyabPZ28uQ6w5YessT9YqiRMrnFQCbNZlGFeJsRbtexS4dBL8nY4A9Vo7WK6XaJc2AV3gfLEH9nHY+6A7XPhguZ4+pI1JU+q0vb4Ef4+efAaRpjkt3RyGhOT+w7h+V9WBX7Mm3TEbnUTJGH4nv5nJql4ceiKS63O8jPnAz6FHpXKOVUDH+US0fajk4wvk/9k=" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -2712,7 +2712,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 May 2026, 17:52:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 May 2026, 19:27:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
